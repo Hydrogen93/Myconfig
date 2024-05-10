@@ -1,0 +1,32 @@
+backup
+	keymap.conf
+	
+
+software list
+	mykeymap
+	scoop
+		firefox
+		nekoray
+		pwsh
+		windows terminal
+		git
+		sudo
+		busybox
+		wsl
+		7zip
+		everything 
+		optimizer?
+		rufus
+		telegram
+		sumatrapdf
+		zlibrary
+		
+		optional - nvidia 
+		
+		diskgenius
+		huorong
+		spotify
+		qq
+		superpro
+		wechat
+		steam
