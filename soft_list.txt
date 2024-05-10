@@ -15,7 +15,8 @@ software list
 		wsl
 		7zip
 		everything 
-		optimizer?
+		optimizer?  用来装一些必要的库
+
 		rufus
 		telegram
 		sumatrapdf
